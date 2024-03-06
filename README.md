@@ -1,9 +1,11 @@
 Hi! This is Renee👋.
 Welcome to my Full Stack Project: Bloomfield Real Estate Website.
+
 This project now is live on Render🎉: https://mern-estate-app-project.onrender.com/
 (It will take a bit of a wait to open it, thanks for your patience in advance!⌛️）
 
 Bloomfield Real Estate Marketplace website is a cutting-edge web application designed to deliver a seamless and interactive user experience.
+
 [Key Features✅]
 🌟Robust Backend REST APIs: Our backend supports efficient CRUD (Create, Read, Update, Delete) operations, enhancing the app's data management capabilities.
 🌟Simple but Elegant Web Interface: Designed with a focus on simple and user-friendliness to improve overall user engagement.
