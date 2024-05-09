@@ -1,10 +1,9 @@
-## Full Stack Project - Real Estate Website
-- Welcome to my Full Stack Project: Bloomfield Real Estate Website.
+## Full Stack Project - Estate Finder Pro
 
 - This project now is live on Render🎉: https://mern-estate-app-project.onrender.com/
  (It will take a bit of a wait to open it, thanks for your patience!⌛️）
 
-- Bloomfield Real Estate Marketplace website is a cutting-edge web application designed to deliver a seamless and interactive user experience.
+- Estate Finder Pro is a cutting-edge web application designed to deliver a seamless and interactive user experience.
 
 ## [Key Features✅]
 - 🌟Robust Backend REST APIs: Led the creation of backend REST APIs, effectively implementing CRUD (Create, Read, Update, Delete) operations.
@@ -13,6 +12,6 @@
 
 ## [Technologies Used✅]
 - 🌸Frontend: React.js, Redux.js, TailwindCSS
-- 💻Backend: Node.js, Express.js, REST APIs, insonmia
+- 💻Backend: Node.js, Express.js, REST APIs, Insonmia
 - 🔑Authentication: Firebase, JWT, Google OAuth
 - 🆕Version Control: Git
