@@ -15,3 +15,6 @@
 - 💻Backend: Node.js, Express.js, REST APIs, Insonmia
 - 🔑Authentication: Firebase, JWT, Google OAuth
 - 🆕Version Control: Git
+
+## [Deploy version]
+
