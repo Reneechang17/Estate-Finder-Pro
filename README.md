@@ -19,19 +19,21 @@
 - Test: Insonmia
 
 ## [Deploy version]
-![Project Structure Diagram](https://github.com/Reneechang17/Backend_project-Restaurant-Management_Golang/blob/main/project-structure/go%20structure.jpg)
+- Home Page with sliding window
+![Home Page](https://github.com/Reneechang17/Estate-Finder-Pro/blob/main/static/Home%20page-Estate.jpg)
 
+- Sign Up and Sign In
+![Sign Up](https://github.com/Reneechang17/Estate-Finder-Pro/blob/main/static/Sign%20Up-Estate.jpg)
+![Sign In](https://github.com/Reneechang17/Estate-Finder-Pro/blob/main/static/Sign%20In-Estate.jpg)
 
-![Project Structure Diagram](https://github.com/Reneechang17/Backend_project-Restaurant-Management_Golang/blob/main/project-structure/go%20structure.jpg)
+- Profile Page with user listing
+![Profile Page](https://github.com/Reneechang17/Estate-Finder-Pro/blob/main/static/Profile%20Page%20with%20Listing-Estate.jpg)
 
+- Creating Listing Page with multiple options
+![Creating Listing Page](https://github.com/Reneechang17/Estate-Finder-Pro/blob/main/static/Creating%20List%20Page%20with%20multiple%20options-Estate.jpg)
 
+- Advance Search Function: Use Keyword search or search options
+![Search Page](https://github.com/Reneechang17/Estate-Finder-Pro/blob/main/static/Advance%20Search%20functionalities-Estate.jpg)
 
-![Project Structure Diagram](https://github.com/Reneechang17/Backend_project-Restaurant-Management_Golang/blob/main/project-structure/go%20structure.jpg)
-
-
-
-![Project Structure Diagram](https://github.com/Reneechang17/Backend_project-Restaurant-Management_Golang/blob/main/project-structure/go%20structure.jpg)
-
-
-
-![Project Structure Diagram](https://github.com/Reneechang17/Backend_project-Restaurant-Management_Golang/blob/main/project-structure/go%20structure.jpg)
+- Listing Page with detail information and landlord contact
+![Listing Page](https://github.com/Reneechang17/Estate-Finder-Pro/blob/main/static/House%20Page%20with%20detail%20info-Estate.jpg)
