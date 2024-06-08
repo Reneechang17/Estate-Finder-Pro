@@ -20,7 +20,7 @@
 
 - Deployment:
   - The project has been deployed on Render: https://mern-estate-app-project.onrender.com/
-  - And deployed on **AWS EC2**, using Nginx as a reverse proxy
+  - And deployed on **AWS EC2**, using **Nginx** as a reverse proxy
 
 ## Technologies Used
 - Frontend: React.js, Redux.js, TailwindCSS
