@@ -1,22 +1,35 @@
 ## Full Stack Project - Estate Finder Pro
 
-- This project now is live on Render🎉: https://mern-estate-app-project.onrender.com/
- (It will take a bit of a wait to open it, thanks for your patience!⌛️）
+### Project Introduction
 
-- Estate Finder Pro is a cutting-edge web application designed to deliver a seamless and interactive user experience.
+- This project aims to develop the Real Estate Finder Pro application, a platform like Zillow or realtor.com, designed to assist users in locating their next home. Utilizing the latest version of the MERN stack (**MongoDB, Express.js, React, Node.js**), and combined with the **React Router Dom** for crafting dynamic pages and routes.
 
-### Key Features
-- Frontend: Utilized **React.js** for building user interfaces, **Redux.js** for managing application state, and **TailwindCSS** for designing responsive and customizable styling.
-- Backend REST APIs: Led the creation of backend **REST APIs**, effectively implementing CRUD (Create, Read, Update, Delete) operations.
-- Database Management：Optimized **MongoDB** for enhanced data storage and retrieval, improving data management and interaction.
-- Authentication System：Engineered a secure authentication system using **JWT, Firebase, and Google OAuth**.
+- Authentication features included both email/password authentication via **JSON Web Tokens (JWT)** and **Google OAuth** integration.
+
+- Coupled with **Redux** toolkit to enhance state management, simplifying the handling of global state across the application.
+
+- For User Profile:
+  - Are safeguarded on both the client and backend sides to ensure a secure user experience. 
+  - Allows users to update personal information such as usernames, emails, and passwords, and to upload profile images. 
+  - Through **CRUD operations with MongoDB**, users can create new property listings, adjust pricing, and upload up to six images per listing. 
+  - Furthermore, users can adjust the number of images associated with their listings even after upload.
+
+- For Listing Page:
+  - Each property listing is displayed with an image slider and features convenient contact options for potential tenants or buyers.
+  - With advanced search functionality, users can search by title, limit results, and sort through options using a sidebar. 
+
+- Deployment:
+  - The project has been deployed on Render: https://mern-estate-app-project.onrender.com/
+  - And deployed on **AWS EC2**, using Nginx as a reverse proxy
 
 ## Technologies Used
 - Frontend: React.js, Redux.js, TailwindCSS
 - Backend: Node.js, Express.js, REST APIs
+- Communication between frontend and backend: Axois
 - Authentication: Firebase, JWT, Google OAuth
 - Version Control: Git
 - Test: Insonmia
+- Deployment: AWS EC2, Ngnix, Render
 
 ## Deploy version
 - Home Page with sliding window
