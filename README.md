@@ -2,7 +2,7 @@
 
 ### Project Introduction
 
-- This project aims to develop the Real Estate Finder Pro application, a platform like Zillow or realtor.com, designed to assist users in locating their next home. Utilizing the latest version of the MERN stack (**MongoDB, Express.js, React, Node.js**), and combined with the **React Router Dom** for crafting dynamic pages and routes.
+- This project aims to develop the Real Estate Finder Pro application, a platform like Zillow or realtor.com, designed to assist people finding their next home. Utilized the latest version of the MERN stack (**MongoDB, Express.js, React, Node.js**), and combined with the **React Router Dom** for crafting dynamic pages and routes.
 
 - Authentication features included both email/password authentication via **JSON Web Tokens (JWT)** and **Google OAuth** integration.
 
