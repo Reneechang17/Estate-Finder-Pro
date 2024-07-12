@@ -24,10 +24,8 @@
 ## Technologies Used
 - Frontend: React.js, Redux.js, TailwindCSS
 - Backend: Node.js, Express.js, REST APIs
-- Communication between frontend and backend: Axois
 - Authentication: Firebase, JWT, Google OAuth
-- Version Control: Git
-- Test: Insonmia
+- Others: Git, Insomia
 
 ## Deploy version
 - Home Page with sliding window
