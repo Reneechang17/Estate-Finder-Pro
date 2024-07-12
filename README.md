@@ -9,7 +9,7 @@
 - Coupled with **Redux** toolkit to enhance state management, simplifying the handling of global state across the application.
 
 - For User Profile:
-  - Are safeguarded on both the client and backend sides to ensure a secure user experience. 
+  - Safeguarded on both the client and backend sides to ensure a secure user experience. 
   - Allows users to update personal information such as usernames, emails, and passwords, and to upload profile images. 
   - Through **CRUD operations with MongoDB**, users can create new property listings, adjust pricing, and upload up to six images per listing. 
   - Furthermore, users can adjust the number of images associated with their listings even after upload.
